@@ -2,11 +2,14 @@ import pygame
 from ui import UI
 from game_logic import GameLogic
 
+pygame.display.set_caption("Othello")
 
 def main():
     pygame.init()
 
-    screen = pygame.display.set_mode((800, 800))
+    WINDOW_WIDTH = 640
+    WINDOW_HEIGHT = 640
+    screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 
     game = GameLogic()
     ui = UI(screen, game)
