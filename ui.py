@@ -1,6 +1,6 @@
 """
 Projet : Jeu Othello
-Auteur : David Vilela & Aleksender Johnson
+Auteur : David Vilela & Aleksander Johnson
 Date : 09/02/2026
 Version : 1.0
 
