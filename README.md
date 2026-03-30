@@ -72,3 +72,12 @@ Le jeu se joue à la souris :
 
 * Python 3.x installé  
 * Pygame installé  -> pip install pygame
+
+---
+
+## © Copyright
+
+© 2026 David Vilela & Aleksander Johnson. Tous droits réservés.
+
+Ce projet a été réalisé dans le cadre du cours MA20.  
+Toute reproduction, distribution ou utilisation sans autorisation préalable est interdite.
