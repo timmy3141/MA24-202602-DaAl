@@ -1,4 +1,4 @@
-# 🎮 Othello – Projet MA20
+# Othello – Projet MA20
 
 ## Informations générales
 
