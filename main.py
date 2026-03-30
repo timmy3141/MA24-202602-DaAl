@@ -22,7 +22,7 @@ WINDOW_TITLE = "Othello"
 
 #MAIN
 def main():
-    # Initialisation pygame
+    # Initialisation de pygame
     pygame.init()
     pygame.display.set_caption(WINDOW_TITLE)
 
